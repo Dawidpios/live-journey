@@ -1,10 +1,10 @@
 import React from 'react';
 
-const TransportOffer = () => {
+const RegisterForm = () => {
     return ( 
         <>
         </>
      );
 }
  
-export default TransportOffer;
+export default RegisterForm;
